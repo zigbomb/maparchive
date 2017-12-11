@@ -1,0 +1,2051 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Jaron\Desktop\mapping\rp_downtown_nh\rp_downtown_nh.vmf
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow048a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW048A_-1401_648_40
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow048a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW048A_-1264_928_9
+Can't find surfaceprop stone for material DE_TIDES/TIDES_BRICK_WALL_I, using default
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template002j_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE002J_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/cs_italy/cobble03_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ITALY/COBBLE03_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-504_1472_-92
+Can't find surfaceprop stone for material DE_TIDES/TIDES_BRICK_WALL_D, using default
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013b_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013B_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-916_-1136_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-916_-1136_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-916_-1136_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-916_-1136_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template003e_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE003E_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template003e_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE003E_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/storefront_template/storefront_template001a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STOREFRONT_TEMPLATE/STOREFRONT_TEMPLATE001A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template003e_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE003E_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof006a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF006A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template020e_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE020E_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template020e_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE020E_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template012d_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE012D_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template012f_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE012F_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/storefront_template/storefront_template001a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STOREFRONT_TEMPLATE/STOREFRONT_TEMPLATE001A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_2282_-1768_-136" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_2282_-1768_-136
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2250_-2188_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2250_-2188_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_2250_-2188_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_2250_-2188_-140
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor020a_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR020A_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor020a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR020A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/metal/citadel_metalwall101b_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/CITADEL_METALWALL101B_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/citadel_metalwall101b_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/CITADEL_METALWALL101B_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/metal/citadel_metalwall101b_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/CITADEL_METALWALL101B_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/marblefloor08_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/MARBLEFLOOR08_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/marblefloor08_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/MARBLEFLOOR08_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall042c_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL042C_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper004a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER004A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/glass/prodwndwa_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/PRODWNDWA_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/prodwndwa_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/PRODWNDWA_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/nature/mudfloor005a_3619_-6784_-144" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/MUDFLOOR005A_3619_-6784_-144
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_3619_-6784_-144" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_3619_-6784_-144
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/prodwndwa_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/PRODWNDWA_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor008a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR008A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-3720_2858_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-3720_2858_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor008a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR008A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof006a_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF006A_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1913_-407_-177
+material "smooth metal/graymetal" not found.
+Material not found!: SMOOTH METAL/GRAYMETAL
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-856_167_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-856_167_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1609_-527_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1609_-527_-129
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-3329_1359_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-3329_1359_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_italy/cobble04_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ITALY/COBBLE04_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_italy/cobble04_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ITALY/COBBLE04_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor01_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR01_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/floor03_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/FLOOR03_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast01_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST01_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/metal/metalwall001a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALWALL001A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/metal/metalwall001a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALWALL001A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/glass/combineglass001a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/COMBINEGLASS001A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast02_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST02_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast02_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST02_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast02_3680_-6704_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST02_3680_-6704_-336
+material "maps/rp_downtown_v4c_v3_eow/stone/stonefloor006d_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONEFLOOR006D_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/stone/stonefloor006d_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONEFLOOR006D_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/stone/stonefloor006d_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONEFLOOR006D_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen03_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN03_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen03_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN03_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-3329_1359_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-3329_1359_-129
+material "maps/rp_downtown_v4c_v3_eow/stone/blendstonefloor003asphalt_wvt_patch" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/BLENDSTONEFLOOR003ASPHALT_WVT_PATCH
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3280_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-3280_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3720_2858_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3720_2858_-134
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/nature/blenddirtgrass001a_wvt_patch" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/BLENDDIRTGRASS001A_WVT_PATCH
+material "maps/rp_downtown_v4c_v3_eow/perftest/water_pretty1_-3720_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PERFTEST/WATER_PRETTY1_-3720_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_-3280_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/combineglass001a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/COMBINEGLASS001A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_3680_-6704_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_3680_-6704_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_3619_-6784_-144" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_3619_-6784_-144
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1609_-527_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1609_-527_-129
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_758_1628_-139
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2282_-1768_-136" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2282_-1768_-136
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-1865_-455_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-1865_-455_-1
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1865_-455_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1865_-455_-1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-856_167_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-856_167_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/pi_signexd_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/PI_SIGNEXD_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall030c_c17_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL030C_C17_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-856_167_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-856_167_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013d_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013D_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013d_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013D_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013b_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013B_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template005c_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE005C_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template005c_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE005C_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template005c_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE005C_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013b_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013B_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-916_-1136_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-916_-1136_124
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013f_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013F_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013f_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013F_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/stone/stonestair001a_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONESTAIR001A_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2250_-2188_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2250_-2188_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen07_3680_-6704_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN07_3680_-6704_-336
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen07_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN07_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen03_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN03_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen01_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN01_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen01_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN01_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen18_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN18_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen18_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN18_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-3329_1359_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-3329_1359_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-3280_3262_-134
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/rp_downtown_nh/nature/blendsandrock004a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic_override (-3696.00 3456.00 -196.05) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9216.0 4608.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 5120.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9216.0 3584.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 372.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3344.0 -72.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3624.0 -72.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3663871 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5009 texinfos to 4414
+Reduced 728 texdatas to 725 (35521 bytes to 35379)
+Writing C:\Users\Jaron\Desktop\mapping\rp_downtown_nh\rp_downtown_nh.bsp
+Wrote ZIP buffer, estimated size 5045666, actual size 5030042
+13 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 445
+
+
+
+4 threads
+reading c:\users\jaron\desktop\mapping\rp_downtown_nh\rp_downtown_nh.bsp
+reading c:\users\jaron\desktop\mapping\rp_downtown_nh\rp_downtown_nh.prt
+LoadPortals: couldn't read c:\users\jaron\desktop\mapping\rp_downtown_nh\rp_downtown_nh.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Jaron\Desktop\mapping\rp_downtown_nh\rp_downtown_nh.vmf
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow048a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW048A_-1401_648_40
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow048a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW048A_-1264_928_9
+Can't find surfaceprop stone for material DE_TIDES/TIDES_BRICK_WALL_I, using default
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template002j_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE002J_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/cs_italy/cobble03_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ITALY/COBBLE03_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-504_1472_-92
+Can't find surfaceprop stone for material DE_TIDES/TIDES_BRICK_WALL_D, using default
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013b_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013B_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-916_-1136_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-916_-1136_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-916_-1136_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-916_-1136_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor011a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR011A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow070c_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW070C_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043d_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043D_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template003e_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE003E_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template003e_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE003E_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/storefront_template/storefront_template001a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STOREFRONT_TEMPLATE/STOREFRONT_TEMPLATE001A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template003e_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE003E_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow032a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW032A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof006a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF006A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template020e_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE020E_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template020e_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE020E_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template012d_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE012D_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template012f_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE012F_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/storefront_template/storefront_template001a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STOREFRONT_TEMPLATE/STOREFRONT_TEMPLATE001A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_2282_-1768_-136" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_2282_-1768_-136
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2250_-2188_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2250_-2188_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_2250_-2188_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_2250_-2188_-140
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor020a_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR020A_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor020a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR020A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall046b_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL046B_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/metal/citadel_metalwall101b_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/CITADEL_METALWALL101B_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/citadel_metalwall101b_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/CITADEL_METALWALL101B_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/metal/citadel_metalwall101b_-1400_96_-20" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/CITADEL_METALWALL101B_-1400_96_-20
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/glass/unbreakable_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/UNBREAKABLE_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/marblefloor08_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/MARBLEFLOOR08_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/marblefloor08_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/MARBLEFLOOR08_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-951_-2025_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-951_-2025_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall042c_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL042C_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper004a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER004A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwallpaper005a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALLPAPER005A_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/glass/prodwndwa_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/PRODWNDWA_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/prodwndwa_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/PRODWNDWA_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/nature/mudfloor005a_3619_-6784_-144" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/MUDFLOOR005A_3619_-6784_-144
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_3619_-6784_-144" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_3619_-6784_-144
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/prodwndwa_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/PRODWNDWA_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor008a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR008A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-3720_2858_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-3720_2858_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor008a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR008A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-915_-1136_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-915_-1136_255
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof006a_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF006A_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_-1913_-407_-177
+material "smooth metal/graymetal" not found.
+Material not found!: SMOOTH METAL/GRAYMETAL
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-856_167_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-856_167_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor03_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR03_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1609_-527_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1609_-527_-129
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/tile/tilewall006a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEWALL006A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-3329_1359_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-3329_1359_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall022c_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL022C_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_italy/cobble04_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ITALY/COBBLE04_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_italy/cobble04_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ITALY/COBBLE04_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor01_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR01_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/floor03_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/FLOOR03_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall043c_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL043C_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor039a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR039A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast01_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST01_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/metal/metalwall001a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALWALL001A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/metal/metalwall001a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALWALL001A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/glass/combineglass001a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/COMBINEGLASS001A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast02_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST02_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast02_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST02_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/nature/water_coast02_3680_-6704_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/WATER_COAST02_3680_-6704_-336
+material "maps/rp_downtown_v4c_v3_eow/stone/stonefloor006d_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONEFLOOR006D_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/stone/stonefloor006d_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONEFLOOR006D_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/stone/stonefloor006d_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONEFLOOR006D_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen03_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN03_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen03_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN03_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/interiortile02_-3329_1359_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTERIORTILE02_-3329_1359_-129
+material "maps/rp_downtown_v4c_v3_eow/stone/blendstonefloor003asphalt_wvt_patch" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/BLENDSTONEFLOOR003ASPHALT_WVT_PATCH
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3280_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-3280_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template029g_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE029G_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-3720_2858_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-3720_2858_-134
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/woodfloor02_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/WOODFLOOR02_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/nature/blenddirtgrass001a_wvt_patch" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/NATURE/BLENDDIRTGRASS001A_WVT_PATCH
+material "maps/rp_downtown_v4c_v3_eow/perftest/water_pretty1_-3720_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PERFTEST/WATER_PRETTY1_-3720_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_-3280_3262_-134
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/combineglass001a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/COMBINEGLASS001A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_3680_-6704_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_3680_-6704_-336
+material "maps/rp_downtown_v4c_v3_eow/glass/offwndwb_3619_-6784_-144" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/OFFWNDWB_3619_-6784_-144
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-504_1472_-92" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-504_1472_-92
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindow007a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOW007A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor059a_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR059A_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1103_204_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1103_204_-132
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1609_-527_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1609_-527_-129
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_-1609_-287_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_-1609_-287_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-887_-1104_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-887_-1104_-140
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor046a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR046A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/glass/glasswindowbreak070a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/GLASS/GLASSWINDOWBREAK070A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/metal/metaldoor018a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALDOOR018A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-856_167_1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-856_167_1
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2183_256_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2183_256_-140
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1913_-407_-177" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1913_-407_-177
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_758_1628_-139
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2282_-1768_-136" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2282_-1768_-136
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-1865_-455_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-1865_-455_-1
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1865_-455_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1865_-455_-1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-432_280_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-432_280_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-856_167_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-856_167_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1897_-423_151" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1897_-423_151
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor005a_-1264_928_9" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR005A_-1264_928_9
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-152_1568_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-152_1568_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_758_1628_-139" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_758_1628_-139
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_1062_2976_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_1062_2976_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/de_piranesi/pi_signexd_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_PIRANESI/PI_SIGNEXD_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-1047_286_-132" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-1047_286_-132
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_3288_3456_8" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_3288_3456_8
+material "maps/rp_downtown_v4c_v3_eow/plaster/plasterwall030c_c17_408_1216_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/PLASTERWALL030C_C17_408_1216_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-1401_648_40" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-1401_648_40
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_3144_800_-104" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_3144_800_-104
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-856_167_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-856_167_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor038c_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR038C_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-1496_3904_-128" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-1496_3904_-128
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-2030_3316_-148" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-2030_3316_-148
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/intbrickk_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/INTBRICKK_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013d_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013D_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/tile/tileroof002a_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEROOF002A_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013d_-1897_-663_79" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013D_-1897_-663_79
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013b_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013B_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template005c_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE005C_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template005c_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE005C_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template005c_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE005C_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013b_-1882_-1248_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013B_-1882_-1248_-120
+material "maps/rp_downtown_v4c_v3_eow/de_chateau/wall04pnl_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/DE_CHATEAU/WALL04PNL_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-916_-1136_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-916_-1136_124
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-915_-1136_-1" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-915_-1136_-1
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-798_-1000_255" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-798_-1000_255
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllc_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLC_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-911_-1128_380" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-911_-1128_380
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-783_-1192_508" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-783_-1192_508
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-919_-1384_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-919_-1384_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/plaster/offwllb_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/PLASTER/OFFWLLB_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-767_-1416_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-767_-1416_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-935_-1456_124" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-935_-1456_124
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor048a_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR048A_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013f_-1864_-1560_-120" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013F_-1864_-1560_-120
+material "maps/rp_downtown_v4c_v3_eow/building_template/building_template013f_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDING_TEMPLATE/BUILDING_TEMPLATE013F_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-1385_-399_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-1385_-399_-145
+material "maps/rp_downtown_v4c_v3_eow/stone/stonestair001a_-456_-1767_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/STONE/STONESTAIR001A_-456_-1767_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2250_-1322_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2250_-1322_-140
+material "maps/rp_downtown_v4c_v3_eow/wood/woodstair002b_2250_-2188_-140" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODSTAIR002B_2250_-2188_-140
+material "maps/rp_downtown_v4c_v3_eow/cs_assault/pavement001a_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CS_ASSAULT/PAVEMENT001A_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/tile/tilefloor012a_757_-1808_-70" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/TILE/TILEFLOOR012A_757_-1808_-70
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/wood/woodfloor007a_c17_-935_-1456_-12" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODFLOOR007A_C17_-935_-1456_-12
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-799_-1000_127" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-799_-1000_127
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor014a_-799_-1000_0" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR014A_-799_-1000_0
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_2976_-6864_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_2976_-6864_-336
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-2694_84_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-2694_84_-129
+material "maps/rp_downtown_v4c_v3_eow/metal/metalroof005a_-1393_-2619_-112" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/METAL/METALROOF005A_-1393_-2619_-112
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen07_3680_-6704_-336" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN07_3680_-6704_-336
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen07_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN07_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen03_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN03_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen01_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN01_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen01_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN01_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen18_4144_520_-200" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN18_4144_520_-200
+material "maps/rp_downtown_v4c_v3_eow/buildings/gen18_2510_-845_-145" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/BUILDINGS/GEN18_2510_-845_-145
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-3329_1359_-129" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-3329_1359_-129
+material "maps/rp_downtown_v4c_v3_eow/concrete/concretefloor011a_c17_-3476_2646_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/CONCRETE/CONCRETEFLOOR011A_C17_-3476_2646_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-3280_3076_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-3280_3076_-134
+material "maps/rp_downtown_v4c_v3_eow/wood/wooddoor032a_-3280_3262_-134" not found.
+Material not found!: MAPS/RP_DOWNTOWN_V4C_V3_EOW/WOOD/WOODDOOR032A_-3280_3262_-134
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/rp_downtown_nh/nature/blendsandrock004a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic_override (-3696.00 3456.00 -196.05) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9216.0 4608.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8704.0 5120.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 5120.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (9216.0 3584.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 4608.0 372.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 5120.0 372.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3344.0 -72.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 3624.0 -72.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 382 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3663871 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5009 texinfos to 4414
+Reduced 728 texdatas to 725 (35521 bytes to 35379)
+Writing C:\Users\Jaron\Desktop\mapping\rp_downtown_nh\rp_downtown_nh.bsp
+Wrote ZIP buffer, estimated size 5045666, actual size 5030042
+19 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 445
+
+
+
+4 threads
+reading c:\users\jaron\desktop\mapping\rp_downtown_nh\rp_downtown_nh.bsp
+reading c:\users\jaron\desktop\mapping\rp_downtown_nh\rp_downtown_nh.prt
+LoadPortals: couldn't read c:\users\jaron\desktop\mapping\rp_downtown_nh\rp_downtown_nh.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\jaron\desktop\mapping\rp_downtown_nh\rp_downtown_nh.bsp
+No vis information, direct lighting only.
+21432 faces
+2 degenerate faces
+2440797 square feet [351474880.00 square inches]
+109 Displacements
+47329 Square Feet [6815473.00 Square Inches]
+light has _fifty_percent_distance of 67.000000 but _zero_percent_distance of 40.000000
+light has _fifty_percent_distance of 67.000000 but _zero_percent_distance of 40.000000
+light has _fifty_percent_distance of 67.000000 but _zero_percent_distance of 40.000000
+light has _fifty_percent_distance of 67.000000 but _zero_percent_distance of 40.000000
+light has _fifty_percent_distance of 67.000000 but _zero_percent_distance of 40.000000
+560 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0379 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...
