@@ -1,0 +1,323 @@
+
+
+
+materialPath: D:\Games\steamapps\common\Half-Life 2\ep2\materials
+Loading D:\Projects\Maps\rp_slumcity\rp_slumcity.vmf
+material "plaster/sl_plaster9_2_blutile" not found.
+Material not found!: PLASTER/SL_PLASTER9_2_BLUTILE
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "plaster/sl_plaster47" not found.
+Material not found!: PLASTER/SL_PLASTER47
+material "plaster/sl_plaster48" not found.
+Material not found!: PLASTER/SL_PLASTER48
+material "wood/sl_wood_floor6" not found.
+Material not found!: WOOD/SL_WOOD_FLOOR6
+material "plaster/sl_plaster2" not found.
+Material not found!: PLASTER/SL_PLASTER2
+material "wood/sl_wood_floor18" not found.
+Material not found!: WOOD/SL_WOOD_FLOOR18
+material "plaster/sl_plaster25_dirty" not found.
+Material not found!: PLASTER/SL_PLASTER25_DIRTY
+material "plaster/sl_plaster43" not found.
+Material not found!: PLASTER/SL_PLASTER43
+material "plaster/sl_plaster50" not found.
+Material not found!: PLASTER/SL_PLASTER50
+material "plaster/sl_plaster9_4_collapsed3" not found.
+Material not found!: PLASTER/SL_PLASTER9_4_COLLAPSED3
+material "plaster/sl_plaster40" not found.
+Material not found!: PLASTER/SL_PLASTER40
+material "plaster/sl_sickly_dirty_plaster" not found.
+Material not found!: PLASTER/SL_SICKLY_DIRTY_PLASTER
+material "plaster/sl_terrible_plaster" not found.
+Material not found!: PLASTER/SL_TERRIBLE_PLASTER
+material "plaster/sl_plaster2_burned" not found.
+Material not found!: PLASTER/SL_PLASTER2_BURNED
+material "plaster/sl_plaster34" not found.
+Material not found!: PLASTER/SL_PLASTER34
+material "brick/sl_brick_wall18green" not found.
+Material not found!: BRICK/SL_BRICK_WALL18GREEN
+material "plaster/sl_plaster37" not found.
+Material not found!: PLASTER/SL_PLASTER37
+material "plaster/sl_orange_plaster_top2_red" not found.
+Material not found!: PLASTER/SL_ORANGE_PLASTER_TOP2_RED
+material "plaster/sl_plaster30" not found.
+Material not found!: PLASTER/SL_PLASTER30
+material "wood/sl_wood104" not found.
+Material not found!: WOOD/SL_WOOD104
+material "plaster/sl_plaster3_bottom1" not found.
+Material not found!: PLASTER/SL_PLASTER3_BOTTOM1
+material "plaster/sl_plaster9_4_2" not found.
+Material not found!: PLASTER/SL_PLASTER9_4_2
+material "plaster/sl_plaster3_bottom2" not found.
+Material not found!: PLASTER/SL_PLASTER3_BOTTOM2
+material "brick/sl_nice_bricks" not found.
+Material not found!: BRICK/SL_NICE_BRICKS
+material "wood/sl_wood90_2" not found.
+Material not found!: WOOD/SL_WOOD90_2
+material "brick/sl_green_red_bricks" not found.
+Material not found!: BRICK/SL_GREEN_RED_BRICKS
+material "metal/sl_metal_door54" not found.
+Material not found!: METAL/SL_METAL_DOOR54
+material "wood/sl_wood_door38" not found.
+Material not found!: WOOD/SL_WOOD_DOOR38
+material "plaster/sl_plaster18bottom" not found.
+Material not found!: PLASTER/SL_PLASTER18BOTTOM
+material "plaster/sl_plaster22" not found.
+Material not found!: PLASTER/SL_PLASTER22
+material "metal/sl_metal_door130" not found.
+Material not found!: METAL/SL_METAL_DOOR130
+material "wood/sl_wood9" not found.
+Material not found!: WOOD/SL_WOOD9
+material "brick/sl_brick_wall9" not found.
+Material not found!: BRICK/SL_BRICK_WALL9
+material "metal/sl_metal_door32" not found.
+Material not found!: METAL/SL_METAL_DOOR32
+material "metal/sl_metal_blue_green_door" not found.
+Material not found!: METAL/SL_METAL_BLUE_GREEN_DOOR
+material "metal/sl_metal_door131" not found.
+Material not found!: METAL/SL_METAL_DOOR131
+material "metal/sl_metal_grate37" not found.
+Material not found!: METAL/SL_METAL_GRATE37
+material "nature/sl_water_mirror" not found.
+Material not found!: NATURE/SL_WATER_MIRROR
+material "metal/sl_metal_door122" not found.
+Material not found!: METAL/SL_METAL_DOOR122
+material "metal/sl_metal_floor11_2shiny" not found.
+Material not found!: METAL/SL_METAL_FLOOR11_2SHINY
+material "glass/sl_glass17" not found.
+Material not found!: GLASS/SL_GLASS17
+material "glass/sl_glass38" not found.
+Material not found!: GLASS/SL_GLASS38
+material "nature/bloody_lazy_water" not found.
+Material not found!: NATURE/BLOODY_LAZY_WATER
+material "lights/white_light_strong" not found.
+Material not found!: LIGHTS/WHITE_LIGHT_STRONG
+material "plaster/sl_plaster20_dirty_burned" not found.
+Material not found!: PLASTER/SL_PLASTER20_DIRTY_BURNED
+material "metal/sl_metal_door126" not found.
+Material not found!: METAL/SL_METAL_DOOR126
+material "plaster/sl_plaster11_half_burned" not found.
+Material not found!: PLASTER/SL_PLASTER11_HALF_BURNED
+material "lights/simplewhite" not found.
+Material not found!: LIGHTS/SIMPLEWHITE
+material "metal/sl_metal_floor14" not found.
+Material not found!: METAL/SL_METAL_FLOOR14
+material "lights/white_light" not found.
+Material not found!: LIGHTS/WHITE_LIGHT
+material "brick/sl_old_brick" not found.
+Material not found!: BRICK/SL_OLD_BRICK
+material "brick/sl_colorful_bricks3" not found.
+Material not found!: BRICK/SL_COLORFUL_BRICKS3
+material "decals/extra/collage24" not found.
+Material not found!: DECALS/EXTRA/COLLAGE24
+material "metal/sl_awesome_rusty_circle2" not found.
+Material not found!: METAL/SL_AWESOME_RUSTY_CIRCLE2
+material "glass/sl_glass6" not found.
+Material not found!: GLASS/SL_GLASS6
+material "glass/sl_glass5" not found.
+Material not found!: GLASS/SL_GLASS5
+material "metal/sl_metal_grate33" not found.
+Material not found!: METAL/SL_METAL_GRATE33
+material "metal/sl_metal_floor12" not found.
+Material not found!: METAL/SL_METAL_FLOOR12
+material "metal/sl_metal_grate25" not found.
+Material not found!: METAL/SL_METAL_GRATE25
+material "metal/sl_metal_grate27_4" not found.
+Material not found!: METAL/SL_METAL_GRATE27_4
+material "metal/sl_metal_grate18" not found.
+Material not found!: METAL/SL_METAL_GRATE18
+material "glass/sl_glass22" not found.
+Material not found!: GLASS/SL_GLASS22
+material "metal/sl_metal_grate33_2" not found.
+Material not found!: METAL/SL_METAL_GRATE33_2
+material "metal/sl_metal_grate27_2" not found.
+Material not found!: METAL/SL_METAL_GRATE27_2
+material "metal/sl_metal_grate21" not found.
+Material not found!: METAL/SL_METAL_GRATE21
+material "metal/sl_metal_grate15" not found.
+Material not found!: METAL/SL_METAL_GRATE15
+material "glass/sl_glass91_2broke" not found.
+Material not found!: GLASS/SL_GLASS91_2BROKE
+material "other/sl_fence" not found.
+Material not found!: OTHER/SL_FENCE
+material "decals/extra/collage26" not found.
+Material not found!: DECALS/EXTRA/COLLAGE26
+material "metal/sl_metal_grate33_4" not found.
+Material not found!: METAL/SL_METAL_GRATE33_4
+material "wood/sl_wood83" not found.
+Material not found!: WOOD/SL_WOOD83
+material "wood/sl_wood31" not found.
+Material not found!: WOOD/SL_WOOD31
+material "shadertest/sl_water_trickleslow" not found.
+Material not found!: SHADERTEST/SL_WATER_TRICKLESLOW
+material "effects/sl_grey" not found.
+Material not found!: EFFECTS/SL_GREY
+material "metal/sl_metal_door17" not found.
+Material not found!: METAL/SL_METAL_DOOR17
+material "metal/sl_metal_door54_2" not found.
+Material not found!: METAL/SL_METAL_DOOR54_2
+material "wood/sl_wood29_2" not found.
+Material not found!: WOOD/SL_WOOD29_2
+material "props/sl_prop22burned" not found.
+Material not found!: PROPS/SL_PROP22BURNED
+material "props/sl_prop43" not found.
+Material not found!: PROPS/SL_PROP43
+material "glass/sl_glass_white2" not found.
+Material not found!: GLASS/SL_GLASS_WHITE2
+material "wood/sl_wood73" not found.
+Material not found!: WOOD/SL_WOOD73
+material "wood/sl_wood5" not found.
+Material not found!: WOOD/SL_WOOD5
+material "metal/sl_metal_door136" not found.
+Material not found!: METAL/SL_METAL_DOOR136
+material "plaster/sl_plaster3" not found.
+Material not found!: PLASTER/SL_PLASTER3
+material "metal/sl_metal_door79" not found.
+Material not found!: METAL/SL_METAL_DOOR79
+material "metal/sl_metal_door76burned" not found.
+Material not found!: METAL/SL_METAL_DOOR76BURNED
+material "props/sl_prop55" not found.
+Material not found!: PROPS/SL_PROP55
+material "wood/sl_wood79" not found.
+Material not found!: WOOD/SL_WOOD79
+material "wood/sl_wood6_2" not found.
+Material not found!: WOOD/SL_WOOD6_2
+material "metal/sl_metal_door135" not found.
+Material not found!: METAL/SL_METAL_DOOR135
+material "metal/sl_metal_door107burned" not found.
+Material not found!: METAL/SL_METAL_DOOR107BURNED
+material "wood/sl_wood89" not found.
+Material not found!: WOOD/SL_WOOD89
+material "metal/sl_metal_door41_burned" not found.
+Material not found!: METAL/SL_METAL_DOOR41_BURNED
+material "metal/sl_metal_door136_2" not found.
+Material not found!: METAL/SL_METAL_DOOR136_2
+material "metal/sl_metal_door71" not found.
+Material not found!: METAL/SL_METAL_DOOR71
+material "props/sl_prop_10" not found.
+Material not found!: PROPS/SL_PROP_10
+material "decals/extra/cleathe_easy" not found.
+Material not found!: DECALS/EXTRA/CLEATHE_EASY
+material "wood/sl_wood96" not found.
+Material not found!: WOOD/SL_WOOD96
+material "metal/sl_metal_door136_3" not found.
+Material not found!: METAL/SL_METAL_DOOR136_3
+material "metal/sl_metal_door42_2_burned" not found.
+Material not found!: METAL/SL_METAL_DOOR42_2_BURNED
+material "props/sl_prop24" not found.
+Material not found!: PROPS/SL_PROP24
+material "props/sl_prop36" not found.
+Material not found!: PROPS/SL_PROP36
+material "props/sl_prop48_two2" not found.
+Material not found!: PROPS/SL_PROP48_TWO2
+material "wood/sl_wood90" not found.
+Material not found!: WOOD/SL_WOOD90
+material "metal/sl_metal_door54_burned" not found.
+Material not found!: METAL/SL_METAL_DOOR54_BURNED
+material "wood/sl_wood82" not found.
+Material not found!: WOOD/SL_WOOD82
+material "wood/sl_wood53" not found.
+Material not found!: WOOD/SL_WOOD53
+material "decals/extra/collage7" not found.
+Material not found!: DECALS/EXTRA/COLLAGE7
+material "props/sl_prop27" not found.
+Material not found!: PROPS/SL_PROP27
+material "wood/sl_wood_door6" not found.
+Material not found!: WOOD/SL_WOOD_DOOR6
+material "wood/sl_wood6" not found.
+Material not found!: WOOD/SL_WOOD6
+material "metal/sl_metal_door122_2" not found.
+Material not found!: METAL/SL_METAL_DOOR122_2
+material "wood/sl_wood_door40" not found.
+Material not found!: WOOD/SL_WOOD_DOOR40
+material "wood/sl_wood_door49" not found.
+Material not found!: WOOD/SL_WOOD_DOOR49
+material "glass/sl_glass6flat" not found.
+Material not found!: GLASS/SL_GLASS6FLAT
+material "metal/sl_metal_door70" not found.
+Material not found!: METAL/SL_METAL_DOOR70
+material "metal/sl_metal_door132" not found.
+Material not found!: METAL/SL_METAL_DOOR132
+material "metal/sl_metal_door56" not found.
+Material not found!: METAL/SL_METAL_DOOR56
+material "plaster/sl_plaster48_blu_burned" not found.
+Material not found!: PLASTER/SL_PLASTER48_BLU_BURNED
+material "metal/sl_metal_door29_burned" not found.
+Material not found!: METAL/SL_METAL_DOOR29_BURNED
+material "metal/sl_grey_metal_door" not found.
+Material not found!: METAL/SL_GREY_METAL_DOOR
+material "props/sl_prop53_5" not found.
+Material not found!: PROPS/SL_PROP53_5
+material "metal/sl_metal_door122_3" not found.
+Material not found!: METAL/SL_METAL_DOOR122_3
+material "props/sl_prop_16_3burned" not found.
+Material not found!: PROPS/SL_PROP_16_3BURNED
+material "metal/sl_awesome_metal_door" not found.
+Material not found!: METAL/SL_AWESOME_METAL_DOOR
+material "metal/sl_metal_door24" not found.
+Material not found!: METAL/SL_METAL_DOOR24
+material "plaster/sl_plaster15_burned" not found.
+Material not found!: PLASTER/SL_PLASTER15_BURNED
+material "plaster/sl_plaster11_burned" not found.
+Material not found!: PLASTER/SL_PLASTER11_BURNED
+material "metal/sl_metal_door106" not found.
+Material not found!: METAL/SL_METAL_DOOR106
+material "metal/sl_bus_inside" not found.
+Material not found!: METAL/SL_BUS_INSIDE
+material "metal/sl_metal_door72" not found.
+Material not found!: METAL/SL_METAL_DOOR72
+material "decals/extra/flipino_refugees" not found.
+Material not found!: DECALS/EXTRA/FLIPINO_REFUGEES
+material "decals/extra/collage9" not found.
+Material not found!: DECALS/EXTRA/COLLAGE9
+material "decals/extra/korea_refugees" not found.
+Material not found!: DECALS/EXTRA/KOREA_REFUGEES
+material "props/sl_prop48" not found.
+Material not found!: PROPS/SL_PROP48
+Could not locate 'GameData' key in d:\games\steamapps\common\half-life 2\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 2088 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing D:\Projects\Maps\rp_slumcity\rp_slumcity.prt...Building visibility clusters...
+done (0)
+material "skybox/sl_skybox15rt" not found.
+Can't load skybox file skybox/sl_skybox15 to build the default cubemap!
+Can't load skybox file skybox/sl_skybox15 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/sl_decal_door4" not found.
+material "decals/sl_decal_carpet9" not found.
+material "decals/sl_decal_carpet10" not found.
+material "overlays/sl_overlay_slime" not found.
+material "overlays/sl_overlay_messy" not found.
+material "overlays/sl_overlay_rocky" not found.
+material "overlays/sl_overlay_rust" not found.
+material "decals/sl_deep_rust" not found.
+material "overlays/sl_overlay_algi" not found.
+material "decals/sl_decal_vent27" not found.
+material "decals/sl_decal_vent34" not found.
+material "decals/sl_decal_manhole15" not found.
+material "other/sl_skid_mark2" not found.
+Overlay touching too many faces (touching 68, max 64)
+Overlay other/sl_skid_mark2 at -3017.0 6288.0 -472.0
+
+
+4 threads
+reading d:\projects\maps\rp_slumcity\rp_slumcity.bsp
+Error opening d:\projects\maps\rp_slumcity\rp_slumcity.bsp
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading d:\projects\maps\rp_slumcity\rp_slumcity.bsp
+Error opening d:\projects\maps\rp_slumcity\rp_slumcity.bsp

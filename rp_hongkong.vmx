@@ -1,0 +1,3427 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8216"
+	"mapversion" "1"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "8"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "1"
+	"classname" "worldspawn"
+	"skyname" "sky_day01_01"
+	"maxpropscreenwidth" "-1"
+	"detailvbsp" "detail.vbsp"
+	"detailmaterial" "detail/detailsprites"
+	solid
+	{
+		"id" "21"
+		side
+		{
+			"id" "7"
+			"plane" "(-8080 9088 52) (-7904 9088 52) (-7904 8192 52)"
+			"material" "CONCRETE/CONCRETEFLOOR009A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "8"
+			"plane" "(-8080 8192 0) (-7904 8192 0) (-7904 9088 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "9"
+			"plane" "(-8080 9088 52) (-8080 8192 52) (-8080 8192 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10"
+			"plane" "(-7904 9088 0) (-7904 8192 0) (-7904 8192 52)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "11"
+			"plane" "(-7904 9088 52) (-8080 9088 52) (-8080 9088 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "12"
+			"plane" "(-7904 8192 0) (-8080 8192 0) (-8080 8192 52)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 134 119"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "44"
+		side
+		{
+			"id" "24"
+			"plane" "(-7904 9088 64) (-7792 9088 64) (-7792 8192 64)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_BRICKS_01"
+			"uaxis" "[1 0 0 -42.6679] 0.15"
+			"vaxis" "[0 -1 0 0] 0.15"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "23"
+			"plane" "(-7904 8192 0) (-7792 8192 0) (-7792 9088 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "22"
+			"plane" "(-7904 9088 64) (-7904 8192 64) (-7904 8192 0)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENGREYCNCRT_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "21"
+			"plane" "(-7792 9088 0) (-7792 8192 0) (-7792 8192 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20"
+			"plane" "(-7792 9088 64) (-7904 9088 64) (-7904 9088 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19"
+			"plane" "(-7792 8192 0) (-7904 8192 0) (-7904 8192 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 102 219"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "757"
+		side
+		{
+			"id" "282"
+			"plane" "(-8128 8576 88) (-8128 8448 88) (-8128 8448 192)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "281"
+			"plane" "(-8176 8320 88) (-8320 8320 88) (-8320 8320 192)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "280"
+			"plane" "(-8384 8432 88) (-8320 8320 88) (-8176 8320 88)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "279"
+			"plane" "(-8384 8432 192) (-8368 8576 192) (-8128 8576 192)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "278"
+			"plane" "(-8128 8448 192) (-8128 8448 88) (-8176 8320 88)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "277"
+			"plane" "(-8320 8320 192) (-8320 8320 88) (-8384 8432 88)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "276"
+			"plane" "(-8368 8576 88) (-8128 8576 88) (-8128 8576 192)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "275"
+			"plane" "(-8384 8432 192) (-8384 8432 88) (-8368 8576 88)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "758"
+		side
+		{
+			"id" "290"
+			"plane" "(-8384 8432 64) (-8320 8320 64) (-8176 8320 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "289"
+			"plane" "(-8128 8576 64) (-8128 8448 64) (-8128 8448 88)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "288"
+			"plane" "(-8176 8320 64) (-8320 8320 64) (-8320 8320 88)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "287"
+			"plane" "(-8384 8432 88) (-8368 8576 88) (-8128 8576 88)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "286"
+			"plane" "(-8128 8448 88) (-8128 8448 64) (-8176 8320 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "285"
+			"plane" "(-8320 8320 88) (-8320 8320 64) (-8384 8432 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "284"
+			"plane" "(-8368 8576 64) (-8128 8576 64) (-8128 8576 88)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "283"
+			"plane" "(-8384 8432 88) (-8384 8432 64) (-8368 8576 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "640"
+		side
+		{
+			"id" "326"
+			"plane" "(-8352 8576 64) (-8352 8640 64) (-8352 8640 176)"
+			"material" "RP_HONGKONG/INTERIOR/OLDBRWNDOOR_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 293] 0.21875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "325"
+			"plane" "(-8144 8640 64) (-8144 8576 64) (-8144 8576 176)"
+			"material" "RP_HONGKONG/INTERIOR/OLDBRWNDOOR_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 292.571] 0.21875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "324"
+			"plane" "(-8352 8640 64) (-8352 8576 64) (-8144 8576 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "323"
+			"plane" "(-8352 8576 176) (-8352 8640 176) (-8144 8640 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "322"
+			"plane" "(-8352 8640 176) (-8352 8640 64) (-8144 8640 64)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "321"
+			"plane" "(-8144 8576 176) (-8144 8576 64) (-8352 8576 64)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "843"
+		side
+		{
+			"id" "332"
+			"plane" "(-8352 8640 64) (-8352 8704 64) (-8352 8704 176)"
+			"material" "RP_HONGKONG/INTERIOR/OLDBRWNDOOR_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 292.571] 0.21875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "331"
+			"plane" "(-8144 8704 64) (-8144 8640 64) (-8144 8640 176)"
+			"material" "RP_HONGKONG/INTERIOR/OLDBRWNDOOR_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 293] 0.21875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "330"
+			"plane" "(-8352 8704 64) (-8352 8640 64) (-8144 8640 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "329"
+			"plane" "(-8352 8640 176) (-8352 8704 176) (-8144 8704 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "328"
+			"plane" "(-8144 8640 176) (-8144 8640 64) (-8352 8640 64)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "327"
+			"plane" "(-8352 8704 176) (-8352 8704 64) (-8144 8704 64)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1054"
+		side
+		{
+			"id" "358"
+			"plane" "(-8400 8424 208) (-8400 8576 208) (-8112 8576 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "357"
+			"plane" "(-8400 8576 208) (-8400 8424 208) (-8400 8424 200)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "356"
+			"plane" "(-8112 8440 208) (-8112 8576 208) (-8112 8576 200)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "355"
+			"plane" "(-8328 8304 208) (-8160 8304 208) (-8160 8304 200)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "354"
+			"plane" "(-8400 8576 200) (-8400 8424 200) (-8328 8304 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "353"
+			"plane" "(-8160 8304 200) (-8160 8304 208) (-8112 8440 208)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "352"
+			"plane" "(-8400 8424 200) (-8400 8424 208) (-8328 8304 208)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "351"
+			"plane" "(-8112 8576 200) (-8112 8576 208) (-8400 8576 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1055"
+		side
+		{
+			"id" "366"
+			"plane" "(-8400 8424 200) (-8400 8576 200) (-8112 8576 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "365"
+			"plane" "(-8400 8576 200) (-8400 8424 200) (-8400 8424 192)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "364"
+			"plane" "(-8112 8440 200) (-8112 8576 200) (-8112 8576 192)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "363"
+			"plane" "(-8328 8304 200) (-8160 8304 200) (-8160 8304 192)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "362"
+			"plane" "(-8400 8576 192) (-8400 8424 192) (-8328 8304 192)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "361"
+			"plane" "(-8160 8304 192) (-8160 8304 200) (-8112 8440 200)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "360"
+			"plane" "(-8400 8424 192) (-8400 8424 200) (-8328 8304 200)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "359"
+			"plane" "(-8112 8576 192) (-8112 8576 200) (-8400 8576 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1056"
+		side
+		{
+			"id" "406"
+			"plane" "(-8096 8856 208) (-8096 8704 208) (-8384 8704 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "405"
+			"plane" "(-8096 8704 208) (-8096 8856 208) (-8096 8856 200)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "404"
+			"plane" "(-8384 8840 208) (-8384 8704 208) (-8384 8704 200)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "403"
+			"plane" "(-8168 8976 208) (-8336 8976 208) (-8336 8976 200)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "402"
+			"plane" "(-8096 8704 200) (-8096 8856 200) (-8168 8976 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "401"
+			"plane" "(-8336 8976 200) (-8336 8976 208) (-8384 8840 208)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "400"
+			"plane" "(-8096 8856 200) (-8096 8856 208) (-8168 8976 208)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "399"
+			"plane" "(-8384 8704 200) (-8384 8704 208) (-8096 8704 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1057"
+		side
+		{
+			"id" "414"
+			"plane" "(-8368 8704 88) (-8368 8832 88) (-8368 8832 192)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "413"
+			"plane" "(-8320 8960 88) (-8176 8960 88) (-8176 8960 192)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "412"
+			"plane" "(-8112 8848 88) (-8176 8960 88) (-8320 8960 88)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "411"
+			"plane" "(-8112 8848 192) (-8128 8704 192) (-8368 8704 192)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "410"
+			"plane" "(-8368 8832 192) (-8368 8832 88) (-8320 8960 88)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "409"
+			"plane" "(-8176 8960 192) (-8176 8960 88) (-8112 8848 88)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "408"
+			"plane" "(-8128 8704 88) (-8368 8704 88) (-8368 8704 192)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "407"
+			"plane" "(-8112 8848 192) (-8112 8848 88) (-8128 8704 88)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1058"
+		side
+		{
+			"id" "422"
+			"plane" "(-8096 8856 200) (-8096 8704 200) (-8384 8704 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "421"
+			"plane" "(-8096 8704 200) (-8096 8856 200) (-8096 8856 192)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "420"
+			"plane" "(-8384 8840 200) (-8384 8704 200) (-8384 8704 192)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "419"
+			"plane" "(-8168 8976 200) (-8336 8976 200) (-8336 8976 192)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "418"
+			"plane" "(-8096 8704 192) (-8096 8856 192) (-8168 8976 192)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "417"
+			"plane" "(-8336 8976 192) (-8336 8976 200) (-8384 8840 200)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "416"
+			"plane" "(-8096 8856 192) (-8096 8856 200) (-8168 8976 200)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "415"
+			"plane" "(-8384 8704 192) (-8384 8704 200) (-8096 8704 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1059"
+		side
+		{
+			"id" "430"
+			"plane" "(-8112 8848 64) (-8176 8960 64) (-8320 8960 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "429"
+			"plane" "(-8368 8704 64) (-8368 8832 64) (-8368 8832 88)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "428"
+			"plane" "(-8320 8960 64) (-8176 8960 64) (-8176 8960 88)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "427"
+			"plane" "(-8112 8848 88) (-8128 8704 88) (-8368 8704 88)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "426"
+			"plane" "(-8368 8832 88) (-8368 8832 64) (-8320 8960 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "425"
+			"plane" "(-8176 8960 88) (-8176 8960 64) (-8112 8848 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "424"
+			"plane" "(-8128 8704 64) (-8368 8704 64) (-8368 8704 88)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "423"
+			"plane" "(-8112 8848 88) (-8112 8848 64) (-8128 8704 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1489"
+		side
+		{
+			"id" "466"
+			"plane" "(-8112 8576 200) (-8400 8576 200) (-8384 8704 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "465"
+			"plane" "(-8096 8704 192) (-8384 8704 192) (-8400 8576 192)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "464"
+			"plane" "(-8384 8704 192) (-8096 8704 192) (-8096 8704 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 -32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "463"
+			"plane" "(-8112 8576 192) (-8400 8576 192) (-8400 8576 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 -32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "462"
+			"plane" "(-8096 8704 192) (-8112 8576 192) (-8112 8576 200)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "461"
+			"plane" "(-8400 8576 192) (-8384 8704 192) (-8384 8704 200)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 228 221"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1490"
+		side
+		{
+			"id" "472"
+			"plane" "(-8112 8576 208) (-8400 8576 208) (-8384 8704 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "471"
+			"plane" "(-8096 8704 200) (-8384 8704 200) (-8400 8576 200)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "470"
+			"plane" "(-8384 8704 200) (-8096 8704 200) (-8096 8704 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "469"
+			"plane" "(-8112 8576 200) (-8400 8576 200) (-8400 8576 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "468"
+			"plane" "(-8096 8704 200) (-8112 8576 200) (-8112 8576 208)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "467"
+			"plane" "(-8400 8576 200) (-8384 8704 200) (-8384 8704 208)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 228 221"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1495"
+		side
+		{
+			"id" "536"
+			"plane" "(-8368 8704 232) (-8368 8832 232) (-8368 8832 320)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 325.818] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "535"
+			"plane" "(-8320 8960 232) (-8176 8960 232) (-8176 8960 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "534"
+			"plane" "(-8112 8848 232) (-8176 8960 232) (-8320 8960 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "533"
+			"plane" "(-8112 8848 320) (-8128 8704 320) (-8368 8704 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "532"
+			"plane" "(-8368 8832 320) (-8368 8832 232) (-8320 8960 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "531"
+			"plane" "(-8176 8960 320) (-8176 8960 232) (-8112 8848 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "530"
+			"plane" "(-8128 8704 232) (-8368 8704 232) (-8368 8704 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "529"
+			"plane" "(-8112 8848 320) (-8112 8848 232) (-8128 8704 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 -1 0 -284] 0.28125"
+			"vaxis" "[0 0 -1 326] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1496"
+		side
+		{
+			"id" "542"
+			"plane" "(-8368 8640 232) (-8368 8704 232) (-8368 8704 320)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 1 0 -284] 0.28125"
+			"vaxis" "[0 0 -1 326] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "541"
+			"plane" "(-8128 8704 232) (-8128 8640 232) (-8128 8640 320)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 1 0 -284] 0.28125"
+			"vaxis" "[0 0 -1 326] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "540"
+			"plane" "(-8368 8704 232) (-8368 8640 232) (-8128 8640 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "539"
+			"plane" "(-8368 8640 320) (-8368 8704 320) (-8128 8704 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "538"
+			"plane" "(-8128 8640 320) (-8128 8640 232) (-8368 8640 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "537"
+			"plane" "(-8368 8704 320) (-8368 8704 232) (-8128 8704 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1497"
+		side
+		{
+			"id" "548"
+			"plane" "(-8368 8576 232) (-8368 8640 232) (-8368 8640 320)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 1 0 -284] 0.28125"
+			"vaxis" "[0 0 -1 326] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "547"
+			"plane" "(-8128 8640 232) (-8128 8576 232) (-8128 8576 320)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 1 0 -284] 0.28125"
+			"vaxis" "[0 0 -1 326] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "546"
+			"plane" "(-8368 8640 232) (-8368 8576 232) (-8128 8576 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "545"
+			"plane" "(-8368 8576 320) (-8368 8640 320) (-8128 8640 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "544"
+			"plane" "(-8368 8640 320) (-8368 8640 232) (-8128 8640 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "543"
+			"plane" "(-8128 8576 320) (-8128 8576 232) (-8368 8576 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1498"
+		side
+		{
+			"id" "556"
+			"plane" "(-8128 8576 232) (-8128 8448 232) (-8128 8448 320)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 1 0 -284] 0.28125"
+			"vaxis" "[0 0 -1 326] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "555"
+			"plane" "(-8176 8320 232) (-8320 8320 232) (-8320 8320 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "554"
+			"plane" "(-8384 8432 232) (-8320 8320 232) (-8176 8320 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "553"
+			"plane" "(-8384 8432 320) (-8368 8576 320) (-8128 8576 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "552"
+			"plane" "(-8128 8448 320) (-8128 8448 232) (-8176 8320 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "551"
+			"plane" "(-8320 8320 320) (-8320 8320 232) (-8384 8432 232)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "550"
+			"plane" "(-8368 8576 232) (-8128 8576 232) (-8128 8576 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "549"
+			"plane" "(-8384 8432 320) (-8384 8432 232) (-8368 8576 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBRWNWNDOW_B"
+			"uaxis" "[0 1 0 -284.445] 0.28125"
+			"vaxis" "[0 0 -1 325.818] 0.171875"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1499"
+		side
+		{
+			"id" "564"
+			"plane" "(-8112 8848 208) (-8176 8960 208) (-8320 8960 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "563"
+			"plane" "(-8368 8704 208) (-8368 8832 208) (-8368 8832 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "562"
+			"plane" "(-8320 8960 208) (-8176 8960 208) (-8176 8960 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "561"
+			"plane" "(-8112 8848 232) (-8128 8704 232) (-8368 8704 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "560"
+			"plane" "(-8368 8832 232) (-8368 8832 208) (-8320 8960 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "559"
+			"plane" "(-8176 8960 232) (-8176 8960 208) (-8112 8848 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "558"
+			"plane" "(-8128 8704 208) (-8368 8704 208) (-8368 8704 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "557"
+			"plane" "(-8112 8848 232) (-8112 8848 208) (-8128 8704 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1500"
+		side
+		{
+			"id" "572"
+			"plane" "(-8384 8432 208) (-8320 8320 208) (-8176 8320 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "571"
+			"plane" "(-8128 8576 208) (-8128 8448 208) (-8128 8448 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "570"
+			"plane" "(-8176 8320 208) (-8320 8320 208) (-8320 8320 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "569"
+			"plane" "(-8384 8432 232) (-8368 8576 232) (-8128 8576 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "568"
+			"plane" "(-8128 8448 232) (-8128 8448 208) (-8176 8320 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "567"
+			"plane" "(-8320 8320 232) (-8320 8320 208) (-8384 8432 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "566"
+			"plane" "(-8368 8576 208) (-8128 8576 208) (-8128 8576 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "565"
+			"plane" "(-8384 8432 232) (-8384 8432 208) (-8368 8576 208)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1501"
+		side
+		{
+			"id" "578"
+			"plane" "(-8368 8640 208) (-8368 8576 208) (-8128 8576 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "577"
+			"plane" "(-8368 8576 208) (-8368 8640 208) (-8368 8640 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "576"
+			"plane" "(-8128 8640 208) (-8128 8576 208) (-8128 8576 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "575"
+			"plane" "(-8368 8576 232) (-8368 8640 232) (-8128 8640 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "574"
+			"plane" "(-8368 8640 232) (-8368 8640 208) (-8128 8640 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "573"
+			"plane" "(-8128 8576 232) (-8128 8576 208) (-8368 8576 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1502"
+		side
+		{
+			"id" "584"
+			"plane" "(-8368 8704 208) (-8368 8640 208) (-8128 8640 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "583"
+			"plane" "(-8368 8640 208) (-8368 8704 208) (-8368 8704 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "582"
+			"plane" "(-8128 8704 208) (-8128 8640 208) (-8128 8640 232)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "581"
+			"plane" "(-8368 8640 232) (-8368 8704 232) (-8128 8704 232)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "580"
+			"plane" "(-8128 8640 232) (-8128 8640 208) (-8368 8640 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "579"
+			"plane" "(-8368 8704 232) (-8368 8704 208) (-8128 8704 208)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1503"
+		side
+		{
+			"id" "636"
+			"plane" "(-8400 8424 352) (-8400 8576 352) (-8112 8576 352)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "635"
+			"plane" "(-8400 8576 352) (-8400 8424 352) (-8400 8424 344)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "634"
+			"plane" "(-8112 8440 352) (-8112 8576 352) (-8112 8576 344)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "633"
+			"plane" "(-8328 8304 352) (-8160 8304 352) (-8160 8304 344)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "632"
+			"plane" "(-8400 8576 344) (-8400 8424 344) (-8328 8304 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "631"
+			"plane" "(-8160 8304 344) (-8160 8304 352) (-8112 8440 352)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "630"
+			"plane" "(-8400 8424 344) (-8400 8424 352) (-8328 8304 352)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "629"
+			"plane" "(-8112 8576 344) (-8112 8576 352) (-8400 8576 352)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1504"
+		side
+		{
+			"id" "644"
+			"plane" "(-8400 8424 344) (-8400 8576 344) (-8112 8576 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "643"
+			"plane" "(-8400 8576 344) (-8400 8424 344) (-8400 8424 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "642"
+			"plane" "(-8112 8440 344) (-8112 8576 344) (-8112 8576 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "641"
+			"plane" "(-8328 8304 344) (-8160 8304 344) (-8160 8304 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "640"
+			"plane" "(-8400 8576 336) (-8400 8424 336) (-8328 8304 336)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "639"
+			"plane" "(-8160 8304 336) (-8160 8304 344) (-8112 8440 344)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "638"
+			"plane" "(-8400 8424 336) (-8400 8424 344) (-8328 8304 344)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "637"
+			"plane" "(-8112 8576 336) (-8112 8576 344) (-8400 8576 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1505"
+		side
+		{
+			"id" "650"
+			"plane" "(-8112 8576 344) (-8400 8576 344) (-8384 8704 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "649"
+			"plane" "(-8096 8704 336) (-8384 8704 336) (-8400 8576 336)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "648"
+			"plane" "(-8384 8704 336) (-8096 8704 336) (-8096 8704 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "647"
+			"plane" "(-8112 8576 336) (-8400 8576 336) (-8400 8576 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "646"
+			"plane" "(-8096 8704 336) (-8112 8576 336) (-8112 8576 344)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "645"
+			"plane" "(-8400 8576 336) (-8384 8704 336) (-8384 8704 344)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 228 221"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1506"
+		side
+		{
+			"id" "656"
+			"plane" "(-8112 8576 352) (-8400 8576 352) (-8384 8704 352)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "655"
+			"plane" "(-8096 8704 344) (-8384 8704 344) (-8400 8576 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "654"
+			"plane" "(-8384 8704 344) (-8096 8704 344) (-8096 8704 352)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "653"
+			"plane" "(-8112 8576 344) (-8400 8576 344) (-8400 8576 352)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "652"
+			"plane" "(-8096 8704 344) (-8112 8576 344) (-8112 8576 352)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "651"
+			"plane" "(-8400 8576 344) (-8384 8704 344) (-8384 8704 352)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 228 221"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1507"
+		side
+		{
+			"id" "664"
+			"plane" "(-8096 8856 352) (-8096 8704 352) (-8384 8704 352)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "663"
+			"plane" "(-8096 8704 352) (-8096 8856 352) (-8096 8856 344)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "662"
+			"plane" "(-8384 8840 352) (-8384 8704 352) (-8384 8704 344)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "661"
+			"plane" "(-8168 8976 352) (-8336 8976 352) (-8336 8976 344)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "660"
+			"plane" "(-8096 8704 344) (-8096 8856 344) (-8168 8976 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "659"
+			"plane" "(-8336 8976 344) (-8336 8976 352) (-8384 8840 352)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "658"
+			"plane" "(-8096 8856 344) (-8096 8856 352) (-8168 8976 352)"
+			"material" "RP_HONGKONG/INTERIOR/MARBWALL_01"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 96] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "657"
+			"plane" "(-8384 8704 344) (-8384 8704 352) (-8096 8704 352)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1508"
+		side
+		{
+			"id" "672"
+			"plane" "(-8096 8856 344) (-8096 8704 344) (-8384 8704 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "671"
+			"plane" "(-8096 8704 344) (-8096 8856 344) (-8096 8856 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "670"
+			"plane" "(-8384 8840 344) (-8384 8704 344) (-8384 8704 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "669"
+			"plane" "(-8168 8976 344) (-8336 8976 344) (-8336 8976 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "668"
+			"plane" "(-8096 8704 336) (-8096 8856 336) (-8168 8976 336)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "667"
+			"plane" "(-8336 8976 336) (-8336 8976 344) (-8384 8840 344)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "666"
+			"plane" "(-8096 8856 336) (-8096 8856 344) (-8168 8976 344)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "665"
+			"plane" "(-8384 8704 336) (-8384 8704 344) (-8096 8704 344)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1513"
+		side
+		{
+			"id" "708"
+			"plane" "(-8368 8704 320) (-8368 8832 320) (-8368 8832 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "707"
+			"plane" "(-8320 8960 320) (-8176 8960 320) (-8176 8960 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "706"
+			"plane" "(-8112 8848 320) (-8176 8960 320) (-8320 8960 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "705"
+			"plane" "(-8112 8848 336) (-8128 8704 336) (-8368 8704 336)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0.00390625] 0.25"
+			"vaxis" "[0 1 0 -0.00390625] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "704"
+			"plane" "(-8368 8832 336) (-8368 8832 320) (-8320 8960 320)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "703"
+			"plane" "(-8176 8960 336) (-8176 8960 320) (-8112 8848 320)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "702"
+			"plane" "(-8128 8704 320) (-8368 8704 320) (-8368 8704 336)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[-1 0 0 -447.996] 0.25"
+			"vaxis" "[0 0 -1 416] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "701"
+			"plane" "(-8112 8848 336) (-8112 8848 320) (-8128 8704 320)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1514"
+		side
+		{
+			"id" "714"
+			"plane" "(-8368 8576 320) (-8368 8640 320) (-8368 8640 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "713"
+			"plane" "(-8128 8640 320) (-8128 8576 320) (-8128 8576 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "712"
+			"plane" "(-8368 8640 320) (-8368 8576 320) (-8128 8576 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "711"
+			"plane" "(-8368 8576 336) (-8368 8640 336) (-8128 8640 336)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "710"
+			"plane" "(-8368 8640 336) (-8368 8640 320) (-8128 8640 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 416] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "709"
+			"plane" "(-8128 8576 336) (-8128 8576 320) (-8368 8576 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 416] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1515"
+		side
+		{
+			"id" "720"
+			"plane" "(-8368 8640 320) (-8368 8704 320) (-8368 8704 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "719"
+			"plane" "(-8128 8704 320) (-8128 8640 320) (-8128 8640 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "718"
+			"plane" "(-8368 8704 320) (-8368 8640 320) (-8128 8640 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "717"
+			"plane" "(-8368 8640 336) (-8368 8704 336) (-8128 8704 336)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "716"
+			"plane" "(-8128 8640 336) (-8128 8640 320) (-8368 8640 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 416] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "715"
+			"plane" "(-8368 8704 336) (-8368 8704 320) (-8128 8704 320)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 416] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1516"
+		side
+		{
+			"id" "728"
+			"plane" "(-8128 8576 320) (-8128 8448 320) (-8128 8448 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "727"
+			"plane" "(-8176 8320 320) (-8320 8320 320) (-8320 8320 336)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "726"
+			"plane" "(-8384 8432 320) (-8320 8320 320) (-8176 8320 320)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "725"
+			"plane" "(-8384 8432 336) (-8368 8576 336) (-8128 8576 336)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "724"
+			"plane" "(-8128 8448 336) (-8128 8448 320) (-8176 8320 320)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "723"
+			"plane" "(-8320 8320 336) (-8320 8320 320) (-8384 8432 320)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "722"
+			"plane" "(-8368 8576 320) (-8128 8576 320) (-8128 8576 336)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 416] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "721"
+			"plane" "(-8384 8432 336) (-8384 8432 320) (-8368 8576 320)"
+			"material" "RP_HONGKONG/BUILDINGS/DRTYGREYBRICK_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 320] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1580"
+		side
+		{
+			"id" "749"
+			"plane" "(-8456 9984 64) (-8080 9984 64) (-8080 8192 64)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_BRICKS_01"
+			"uaxis" "[1 0 0 -43] 0.15"
+			"vaxis" "[0 -1 0 0] 0.15"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "750"
+			"plane" "(-8456 8192 0) (-8080 8192 0) (-8080 9984 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "751"
+			"plane" "(-8456 9984 64) (-8456 8192 64) (-8456 8192 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "752"
+			"plane" "(-8080 9984 0) (-8080 8192 0) (-8080 8192 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "753"
+			"plane" "(-8080 9984 64) (-8456 9984 64) (-8456 9984 0)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "754"
+			"plane" "(-8080 8192 0) (-8456 8192 0) (-8456 8192 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 176 185"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1610"
+		side
+		{
+			"id" "772"
+			"plane" "(-8360 8640 176) (-8360 8704 176) (-8360 8704 192)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "771"
+			"plane" "(-8136 8704 176) (-8136 8640 176) (-8136 8640 192)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "770"
+			"plane" "(-8360 8704 176) (-8360 8640 176) (-8136 8640 176)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "769"
+			"plane" "(-8360 8640 192) (-8360 8704 192) (-8136 8704 192)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "768"
+			"plane" "(-8136 8640 192) (-8136 8640 176) (-8360 8640 176)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 352] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "767"
+			"plane" "(-8360 8704 192) (-8360 8704 176) (-8136 8704 176)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 352] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1611"
+		side
+		{
+			"id" "778"
+			"plane" "(-8360 8576 176) (-8360 8640 176) (-8360 8640 192)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "777"
+			"plane" "(-8136 8640 176) (-8136 8576 176) (-8136 8576 192)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "776"
+			"plane" "(-8360 8640 176) (-8360 8576 176) (-8136 8576 176)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "775"
+			"plane" "(-8360 8576 192) (-8360 8640 192) (-8136 8640 192)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "774"
+			"plane" "(-8360 8640 192) (-8360 8640 176) (-8136 8640 176)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 352] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "773"
+			"plane" "(-8136 8576 192) (-8136 8576 176) (-8360 8576 176)"
+			"material" "RP_HONGKONG/BUILDINGS/HKM_WALL_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 352] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 160 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1632"
+		side
+		{
+			"id" "779"
+			"plane" "(-8360 8704 176) (-8352 8704 176) (-8352 8696 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "780"
+			"plane" "(-8360 8696 64) (-8352 8696 64) (-8352 8704 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "781"
+			"plane" "(-8360 8704 176) (-8360 8696 176) (-8360 8696 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[0 1 0 0] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "782"
+			"plane" "(-8352 8704 64) (-8352 8696 64) (-8352 8696 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "783"
+			"plane" "(-8352 8704 176) (-8360 8704 176) (-8360 8704 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "784"
+			"plane" "(-8352 8696 64) (-8360 8696 64) (-8360 8696 176)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 108 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1634"
+		side
+		{
+			"id" "796"
+			"plane" "(-8360 8584 176) (-8352 8584 176) (-8352 8576 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 -32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "795"
+			"plane" "(-8360 8576 64) (-8352 8576 64) (-8352 8584 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 -32] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "794"
+			"plane" "(-8360 8584 176) (-8360 8576 176) (-8360 8576 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[0 1 0 0] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "793"
+			"plane" "(-8352 8584 64) (-8352 8576 64) (-8352 8576 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 32] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "792"
+			"plane" "(-8352 8584 176) (-8360 8584 176) (-8360 8584 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "791"
+			"plane" "(-8352 8576 64) (-8360 8576 64) (-8360 8576 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 108 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1648"
+		side
+		{
+			"id" "814"
+			"plane" "(-8136 8576 176) (-8144 8576 176) (-8144 8584 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 1 0 -63.9922] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "813"
+			"plane" "(-8136 8584 64) (-8144 8584 64) (-8144 8576 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 1 0 -63.9922] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "812"
+			"plane" "(-8136 8576 176) (-8136 8584 176) (-8136 8584 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[0 -1 0 511.992] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "811"
+			"plane" "(-8144 8576 64) (-8144 8584 64) (-8144 8584 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 63.9922] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "810"
+			"plane" "(-8144 8576 176) (-8136 8576 176) (-8136 8576 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "809"
+			"plane" "(-8144 8584 64) (-8136 8584 64) (-8136 8584 176)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[-1 0 0 -448.004] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 108 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "1649"
+		side
+		{
+			"id" "820"
+			"plane" "(-8136 8696 176) (-8144 8696 176) (-8144 8704 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 1 0 -31.9922] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "819"
+			"plane" "(-8136 8704 64) (-8144 8704 64) (-8144 8696 64)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 1 0 -31.9922] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "818"
+			"plane" "(-8136 8696 176) (-8136 8704 176) (-8136 8704 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[0 -1 0 511.992] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "817"
+			"plane" "(-8144 8696 64) (-8144 8704 64) (-8144 8704 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 31.9922] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "816"
+			"plane" "(-8144 8696 176) (-8136 8696 176) (-8136 8696 64)"
+			"material" "RP_HONGKONG/BUILDINGS/CLENBROWNWOOD_A"
+			"uaxis" "[0 0 1 0] 0.25"
+			"vaxis" "[-1 0 0 -448.004] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "815"
+			"plane" "(-8144 8704 64) (-8136 8704 64) (-8136 8704 176)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 -0.00390625] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 108 113"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+}
+entity
+{
+	"id" "12"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-8135.58 8284.2 65"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "59"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
+	"origin" "-8010.66 8314.39 53"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordon
+{
+	"mins" "(-1024 -1024 -1024)"
+	"maxs" "(1024 1024 1024)"
+	"active" "0"
+}
